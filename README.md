@@ -2,7 +2,7 @@
 
 A parameterized 3D printed rail for controllable LED stripes and acrylglass. This repo provides files, description and learnings on the 3d printing of the rail and laser engrave process.
 
-![A set of example signs](images/rails_example.jpg)
+![A set of example signs](images/rails_example_camp.png)
 
 ## Specs
 
@@ -76,6 +76,8 @@ You'll find two main variables at the top of the file to control the size of the
 The side-plate is "hidden" (via the "*" operator). To output stl files for the side plate(s) use the "!" operator instead.
 
 # More pictures
+
+![A set of example signs](images/rails_example.jpg)
 
 ![A set of rails, freshly printed and unglued](images/rails_unglued.png)
 
